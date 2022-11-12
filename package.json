@@ -1,0 +1,23 @@
+{
+  "name": "bmi-unit-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bmi_manual_test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goon0409/BMI-Unit-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Goon0409/BMI-Unit-Test/issues"
+  },
+  "homepage": "https://github.com/Goon0409/BMI-Unit-Test#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
